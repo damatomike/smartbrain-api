@@ -4,7 +4,7 @@
   "description": "smartbrain api",
   "main": "index.js",
   "scripts": {
-    "start": "Nodemon server.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
